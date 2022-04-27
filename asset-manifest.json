@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/planets-explorer/static/css/main.a6ba1289.css",
+    "main.js": "/planets-explorer/static/js/main.447d127d.js",
+    "static/js/787.367c0aec.chunk.js": "/planets-explorer/static/js/787.367c0aec.chunk.js",
+    "static/media/background-stars.svg": "/planets-explorer/static/media/background-stars.f6233a6a8d2351c57f2b.svg",
+    "index.html": "/planets-explorer/index.html",
+    "main.a6ba1289.css.map": "/planets-explorer/static/css/main.a6ba1289.css.map",
+    "main.447d127d.js.map": "/planets-explorer/static/js/main.447d127d.js.map",
+    "787.367c0aec.chunk.js.map": "/planets-explorer/static/js/787.367c0aec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6ba1289.css",
+    "static/js/main.447d127d.js"
+  ]
+}
